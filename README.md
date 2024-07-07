@@ -1,1 +1,1 @@
-Howdy, this is a simple calculator written in python.
+How you doing? This is a simple calculator written in python.
